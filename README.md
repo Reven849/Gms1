@@ -25,3 +25,19 @@ The system architecture focuses on data integrity across several core tables:
 *   **Packages:** Manages pricing logic and duration for different subscription tiers.
 *   **Equipment:** Tracks inventory and maintenance schedules.
 *   **Transactions:** Logs all financial data for revenue/expense reporting.
+
+## 
+<img width="882" height="450" alt="image" src="https://github.com/user-attachments/assets/004128f7-6216-4873-80a0-1a2e667ed39d" />
+
+##
+<img width="882" height="455" alt="image" src="https://github.com/user-attachments/assets/d82876e0-cdb4-4d5d-976f-0043237b94cf" />
+
+##
+<img width="882" height="506" alt="image" src="https://github.com/user-attachments/assets/f4578e73-cb1d-43a9-bf79-8f54919b5008" />
+
+##
+<img width="882" height="501" alt="image" src="https://github.com/user-attachments/assets/15666f80-a3f6-4901-a1a7-3178feab24ea" />
+<img width="882" height="544" alt="image" src="https://github.com/user-attachments/assets/f3cc86d3-17aa-4e8b-801b-9028cb37e52f" />
+
+
+
