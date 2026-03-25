@@ -40,7 +40,9 @@ The system architecture focuses on data integrity across several core tables:
 
 ##
 <img width="882" height="501" alt="image" src="https://github.com/user-attachments/assets/15666f80-a3f6-4901-a1a7-3178feab24ea" />
+
 <img width="882" height="544" alt="image" src="https://github.com/user-attachments/assets/f3cc86d3-17aa-4e8b-801b-9028cb37e52f" />
 
+<img width="882" height="517" alt="image" src="https://github.com/user-attachments/assets/b77811e7-f5b9-4fc9-8e13-118e5af98862" />
 
 
