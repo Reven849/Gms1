@@ -26,7 +26,10 @@ The system architecture focuses on data integrity across several core tables:
 *   **Equipment:** Tracks inventory and maintenance schedules.
 *   **Transactions:** Logs all financial data for revenue/expense reporting.
 
-## 
+## 🔗 ER Diagram
+<img width="2816" height="1536" alt="Gemini_Generated_Image_odezsjodezsjodez" src="https://github.com/user-attachments/assets/f6a2d6c5-9e23-47b9-8925-8f0f1f658e45" />
+
+## 🖥️ GUI
 <img width="882" height="450" alt="image" src="https://github.com/user-attachments/assets/004128f7-6216-4873-80a0-1a2e667ed39d" />
 
 ##
